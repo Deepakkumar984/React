@@ -1,0 +1,29 @@
+.card{
+    height: 13rem;
+    width: 10rem;
+    display: flex;
+    flex-direction: column;
+    border: 7px var(--orangeCard) solid;
+    box-shadow: var(--boxShadow);
+    border-radius: 20px;
+    align-items: center;
+    text-align: center;
+    gap: 0.7rem;
+    /* background-color: var(--boxShadow); */
+}
+.card>:nth-child(1){
+    transform: scale(0.7);
+    margin-bottom: -2rem;
+    /* gap: 1rem; */
+}    
+.card>:nth-child(3){
+font-size: 14px;
+color: var(--gray);
+}
+.c-button{
+    background: white;
+    color: rgb(18, 145, 250);
+    border: none;
+    
+}
+

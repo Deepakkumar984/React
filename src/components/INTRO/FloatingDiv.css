@@ -1,0 +1,18 @@
+.f-div{
+    display: flex;
+    background: white;
+    border-radius: 20px;
+    box-shadow: var(--boxShadow);
+    justify-content: space-around;
+    align-items: center;
+    height: 4.3rem;
+    padding-right: 28px;
+   
+}
+.f-div>:nth-child(1){
+    transform: scale(0.5);
+}
+.f-div>:nth-child(2){
+    font-size: 16px;
+    font-family: sans-serif;
+}
