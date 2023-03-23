@@ -23,7 +23,7 @@ const Works = () => {
           <span style={{ color: darkMode ? "white" : "" }}>
             Works for All these
           </span>
-          <span>Friends & Clients</span>
+          <span> Clients</span>
           <spane>
           Proven experience developing consumer-focused websites using HTML, CSS, JavaScript with their libraries.
           <br /> Good knowledge of the best practices for web design,<br /> user experience, and speed.
