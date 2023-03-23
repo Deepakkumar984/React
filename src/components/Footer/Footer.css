@@ -18,12 +18,14 @@
 }
 .f-icons {
   display: flex;
-  margin-top: 4rem;
+  margin-top: 2rem;
   gap: 2rem;
 }
 
 @media screen and (max-width: 480px){
   .f-content{
     transform: scale(.5);
+    margin-top: 3.5rem;
+
   }
 }

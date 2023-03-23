@@ -41,7 +41,7 @@
 }
 
 .w-mainCircle {
-  left: 9rem;
+  left: 4rem;
   position: relative;
   width: 18rem;
   height: 18rem;
@@ -105,12 +105,12 @@
 }
 .blueCircle {
   background: #1949b8;
-  left: 18rem;
+  left: 13rem;
   top: 0rem;
 }
 .yellowCircle {
   background: #f5c32c;
-  left: 18rem;
+  left: 13rem;
   top: 8rem;
 }
 
