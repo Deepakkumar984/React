@@ -12,7 +12,7 @@ const Footer = () => {
       <div className="f-content">
       <span>Safari omega view gulastan-e-johar, Karachi        </span>
         <span>deepakkumar984210@gmail.com</span>
-        <span>+92 3341262681</span>
+        <span>+92 3341262791</span>
         <div className="f-icons">
           <a href="https://www.instagram.com/deep_kanyalal/"><Insta color="white" size={"3rem"} /></a>
           <a href="https://www.facebook.com/profile.php?id=100010078141836"><Facebook color="white" size={"3rem"} /></a>
